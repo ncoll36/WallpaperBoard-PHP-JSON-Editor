@@ -1,0 +1,26 @@
+{
+    "Categories": [
+        {
+            "name": "Blast of Tempest"
+        },
+        {
+            "name": "Bungo Stray Dogs"
+        }
+    ],
+    "Wallpapers": [
+        {
+            "url": "http://walls.ncoll-central.com/wallpapers/aika_fuwa.jpg",
+            "category": "Blast of Tempest",
+            "thumbUrl": "http://walls.ncoll-central.com/wallpapers/aika_fuwa-thumb.jpg",
+            "name": "Aika Fuwa",
+            "author": "ncoll36"
+        },
+        {
+            "url": "http://walls.ncoll-central.com/wallpapers/akiko_yosano.jpg",
+            "catergory": "Bungo Stray Dogs",
+            "thumbUrl": "http://walls.ncoll-central.com/wallpapers/akiko_yosano_thumb.jpg",
+            "name": "Akiko Yosano",
+            "author": "ncoll36"
+        }
+    ]
+}
