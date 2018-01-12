@@ -1,6 +1,0 @@
-<FilesMatch "index.php">
-AuthName "Member Only"
-AuthType Basic
-AuthUserFile "/home/ncollcen/.htpasswds/public_html/walls.ncoll-central.com/passwd"
-require valid-user
-</FilesMatch>
